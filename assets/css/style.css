@@ -1,0 +1,64 @@
+.test{
+
+    background-color: whitesmoke;
+    width: 400px;
+    height: 500px;
+    margin-left: 400px;
+margin-top: 60px;
+box-shadow:  rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.test h2{
+
+    font-family: 'Parisienne', cursive;
+    margin: 140px;
+    padding-top: 50px;
+    height: 20px;
+    width: 30px;
+    text-align: right;
+    font-size: xxx-large;
+
+}
+
+
+.test h1{
+padding: 34px;
+font-size: small;
+text-align: center;
+
+/* font-family: 'Raleway', sans-serif; */
+}
+
+
+
+ 
+.test pre{
+
+    margin-left: 80px;
+    
+}
+    
+
+
+/* .test  tel{
+
+    margin-left: 80px;
+} */
+.test h5 {
+
+   
+    margin-top: 20px;
+    margin-left: 130px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.test h6{
+
+    margin-left: 135px;
+}
+
+.test h4{
+    margin-left: 120px;
+    
+    font-family: 'Caveat', cursive;
+}
